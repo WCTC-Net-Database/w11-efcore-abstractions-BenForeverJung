@@ -1,38 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\",
+  "WorkspaceRootPath": "C:\\Users\\Benju\\OneDrive\\Documents\\1-WCTC\\DotNet DB\\W11Assignment_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\models\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\models\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\models\\characters\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\models\\characters\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\models\\abilities\\playerabilities\\iability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\models\\abilities\\playerabilities\\iability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\models\\abilities\\playerabilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\models\\abilities\\playerabilities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\migrations\\20241104020218_seedequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\migrations\\20241104020218_seedequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\migrations\\scripts\\seedequipment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\migrations\\scripts\\seedequipment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|d:\\documents\\wctc\\netdb-f2024\\net-db-assignment-templates-fall2024\\w11-assignment-template\\consolerpgentities\\migrations\\scripts\\seedequipment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{650C6F68-D609-48BD-8224-216A525D7EAA}|ConsoleRpgEntities\\ConsoleRpgEntities.csproj|solutionrelative:consolerpgentities\\migrations\\scripts\\seedequipment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{F2CE9FFC-62EC-404B-805C-E4E4186A4DEC}|ConsoleRpg\\ConsoleRpg.csproj|c:\\users\\benju\\onedrive\\documents\\1-wctc\\dotnet db\\w11assignment_1\\consolerpg\\services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CE9FFC-62EC-404B-805C-E4E4186A4DEC}|ConsoleRpg\\ConsoleRpg.csproj|solutionrelative:consolerpg\\services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,46 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPlayer.cs",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Characters\\IPlayer.cs",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Models\\Characters\\IPlayer.cs",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Characters\\IPlayer.cs",
-              "RelativeToolTip": "ConsoleRpgEntities\\Models\\Characters\\IPlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T02:08:09.623Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAbility.cs",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\IAbility.cs",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\IAbility.cs",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\IAbility.cs",
-              "RelativeToolTip": "ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\IAbility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T02:08:06.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ability.cs",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\Ability.cs",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\Ability.cs",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\Ability.cs",
-              "RelativeToolTip": "ConsoleRpgEntities\\Models\\Abilities\\PlayerAbilities\\Ability.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T02:07:58.133Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -112,75 +53,30 @@
               "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241104020218_SeedEquipment.cs",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Migrations\\20241104020218_SeedEquipment.cs",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Migrations\\20241104020218_SeedEquipment.cs",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Migrations\\20241104020218_SeedEquipment.cs",
-              "RelativeToolTip": "ConsoleRpgEntities\\Migrations\\20241104020218_SeedEquipment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T02:02:20.781Z",
-              "EditorCaption": ""
-            },
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameContext.cs",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Data\\GameContext.cs",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Data\\GameContext.cs",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Data\\GameContext.cs",
-              "RelativeToolTip": "ConsoleRpgEntities\\Data\\GameContext.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T00:59:37.768Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Characters\\Player.cs",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Models\\Characters\\Player.cs",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Models\\Characters\\Player.cs",
-              "RelativeToolTip": "ConsoleRpgEntities\\Models\\Characters\\Player.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA8AAAAtAAAAAAAAAA==",
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Benju\\OneDrive\\Documents\\1-WCTC\\DotNet DB\\W11Assignment_1\\ConsoleRpg\\Services\\GameEngine.cs",
+              "RelativeDocumentMoniker": "ConsoleRpg\\Services\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\Benju\\OneDrive\\Documents\\1-WCTC\\DotNet DB\\W11Assignment_1\\ConsoleRpg\\Services\\GameEngine.cs",
+              "RelativeToolTip": "ConsoleRpg\\Services\\GameEngine.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAnwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T23:02:01.635Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "eceffbe8-3df5-4ed6-b5d3-da043c01deb3",
-        "Display": 0,
-        "X": 497,
-        "Y": 115,
-        "Width": 1532,
-        "Height": 901,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SeedEquipment.sql ",
-              "DocumentMoniker": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Migrations\\Scripts\\SeedEquipment.sql",
-              "RelativeDocumentMoniker": "ConsoleRpgEntities\\Migrations\\Scripts\\SeedEquipment.sql",
-              "ToolTip": "D:\\Documents\\WCTC\\NetDb-F2024\\net-db-assignment-templates-fall2024\\W11-assignment-template\\ConsoleRpgEntities\\Migrations\\Scripts\\SeedEquipment.sql",
-              "RelativeToolTip": "ConsoleRpgEntities\\Migrations\\Scripts\\SeedEquipment.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-04T01:52:55.402Z",
+              "WhenOpened": "2024-11-17T23:49:43.488Z",
               "EditorCaption": ""
             }
           ]

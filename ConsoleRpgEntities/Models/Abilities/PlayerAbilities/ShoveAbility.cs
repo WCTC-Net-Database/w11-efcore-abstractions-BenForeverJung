@@ -12,6 +12,8 @@ namespace ConsoleRpgEntities.Models.Abilities.PlayerAbilities
         {
             // Fireball ability logic
             Console.WriteLine($"{user.Name} shoves {target.Name} back {Distance} feet, dealing {Damage} damage!");
+            target.Health -= Damage;
+            Console.WriteLine($"{target.Name} has {target.Health} health remaining.");
         }
     }
 }

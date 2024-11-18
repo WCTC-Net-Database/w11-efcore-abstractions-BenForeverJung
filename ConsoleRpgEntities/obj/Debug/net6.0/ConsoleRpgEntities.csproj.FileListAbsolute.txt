@@ -18,3 +18,23 @@ D:\Documents\WCTC\NetDb-F2024\net-db-assignment-templates-fall2024\W11-assignmen
 D:\Documents\WCTC\NetDb-F2024\net-db-assignment-templates-fall2024\W11-assignment-template\ConsoleRpgEntities\obj\Debug\net6.0\ref\ConsoleRpgEntities.dll
 D:\Documents\WCTC\NetDb-F2024\net-db-assignment-templates-fall2024\W11-assignment-template\ConsoleRpgEntities\bin\Debug\net6.0\Migrations\Scripts\SeedEquipment.sql
 D:\Documents\WCTC\NetDb-F2024\net-db-assignment-templates-fall2024\W11-assignment-template\ConsoleRpgEntities\bin\Debug\net6.0\Migrations\Scripts\SeedEquipment.rollback.sql
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\Migrations\Scripts\InitialSeedData.rollback.sql
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\Migrations\Scripts\InitialSeedData.sql
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\appsettings.json
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\ConsoleRpgEntities.deps.json
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\ConsoleRpgEntities.runtimeconfig.json
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\ConsoleRpgEntities.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\ConsoleRpgEntities.pdb
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.csproj.AssemblyReference.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.AssemblyInfoInputs.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.AssemblyInfo.cs
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.csproj.CoreCompileInputs.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.sourcelink.json
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\refint\ConsoleRpgEntities.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.pdb
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ConsoleRpgEntities.genruntimeconfig.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\obj\Debug\net6.0\ref\ConsoleRpgEntities.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\Migrations\Scripts\SeedEquipment.sql
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\W11Assignment_1\ConsoleRpgEntities\bin\Debug\net6.0\Migrations\Scripts\SeedEquipment.rollback.sql

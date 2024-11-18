@@ -1,4 +1,5 @@
-﻿using ConsoleRpgEntities.Models.Abilities.PlayerAbilities;
+﻿using ConsoleRpgEntities.Models;
+using ConsoleRpgEntities.Models.Abilities.PlayerAbilities;
 using ConsoleRpgEntities.Models.Characters;
 using ConsoleRpgEntities.Models.Characters.Monsters;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,9 @@ namespace ConsoleRpgEntities.Data
         public DbSet<Player> Players { get; set; }
         public DbSet<Monster> Monsters { get; set; }
         public DbSet<Ability> Abilities { get; set; }
+        public DbSet<Ability> Items { get; set; }
+        public DbSet<Ability> Equipments { get; set; }
+
 
         public GameContext(DbContextOptions<GameContext> options) : base(options)
         {
@@ -26,6 +30,11 @@ namespace ConsoleRpgEntities.Data
             modelBuilder.Entity<Ability>()
                 .HasDiscriminator<string>(pa=>pa.AbilityType)
                 .HasValue<ShoveAbility>("ShoveAbility");
+
+            //// Configure TPH for Equipment hierarchy
+            //modelBuilder.Entity<Item>()
+            //    .HasDiscriminator<string>(I =>I.Type)
+            //    .HasValue<Equipment>("Equipment");
 
             // Configure many-to-many relationship
             modelBuilder.Entity<Player>()
